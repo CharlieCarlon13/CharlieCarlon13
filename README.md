@@ -23,7 +23,7 @@ y he visto un poco de ***Mongo*** el cual me parecio super interesante es el que
 
 ## Hobbies!
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2Fguides%2Fsmarterliving%2Fhow-to-find-a-hobby&psig=AOvVaw3158VG1H_v44FPwhOjGujJ&ust=1601245577520000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiFxPTuh-wCFQAAAAAdAAAAABAL)
+![](https://cdn.dribbble.com/users/85453/screenshots/3022956/icon-update.gif)
 
 Dentro de mis pasatiempos, creo que no son lo comun en un aspirante a ingeniero en sistemas, pero son:
 - Tocar la bateria.
