@@ -7,6 +7,8 @@ Mi nombre es *Carlos Carlon* pero la mayoria de personas me conocen como ***Char
 Lenguajes que he aprendido utilizar son:
 - C#
 - Python
+
+
 Con ellos son con los que mas he trabajado pero me interesa aprender mas de ellos asi como de ***Java, JavaScript, Ruby, C, C++***.
 Realmente no se me ha dado la oportunidad de aprenderlos pero si tengo un gran interes en adentrarme en esos lenguajes.
 
@@ -21,6 +23,7 @@ y he visto un poco de ***Mongo*** el cual me parecio super interesante es el que
 
 ## Hobbies!
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2Fguides%2Fsmarterliving%2Fhow-to-find-a-hobby&psig=AOvVaw3158VG1H_v44FPwhOjGujJ&ust=1601245577520000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiFxPTuh-wCFQAAAAAdAAAAABAL)
 
 Dentro de mis pasatiempos, creo que no son lo comun en un aspirante a ingeniero en sistemas, pero son:
 - Tocar la bateria.
@@ -31,7 +34,7 @@ Dentro de mis pasatiempos, creo que no son lo comun en un aspirante a ingeniero 
 - Escuchar musica.
 - *Entre otras cosas...*
 
-La mayoria de estos los estoy aprendiendo y estoy muy interesado si alguien gusta brindarme ayuda en todo lo que es produccion de video, fotografia y la musica.
+La mayoria de estos los estoy aprendiendo y estoy muy interesado en conocer mas acerca de ellos!. Si alguien gusta brindarme ayuda con todo esto estaria muy agradecido!.
 
 ![](https://images.cooltext.com/5466877.png)
 
@@ -44,7 +47,6 @@ La mayoria de estos los estoy aprendiendo y estoy muy interesado si alguien gust
 | SCD-1003 SC5A | ARQ DE COMPUTADORAS  | 05 | MIGUEL ANGEL LOPEZ RAMIREZ          | 15:00-16:00 91L6 | 15:00-16:00 91L8 | 15:00-16:00 91L6 | 15:00-16:00 91L8 | 15:00-16:00 91L6 |    |    |
 | SCD-1016 SC7B | LENG Y AUTOMATAS II  | 05 | LUIS ALFONSO GAXIOLA VEGA           | 18:00-19:00 0310 | 18:00-19:00 LCLB | 18:00-19:00 0310 | 18:00-19:00 LCLB | 18:00-19:00 0310 |    |    |
 
-[![bg][banner2]][website]
 
 ## Redes Sociales!
 ![](http://payload345.cargocollective.com/1/4/140568/9204026/GIF_TUBMLR_YAHOO_CPE.gif)
