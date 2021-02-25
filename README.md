@@ -1,7 +1,7 @@
 ![](https://mpsoftinfotech.com/images/software.gif)
 ## Hola amigos 👋
 
-Mi nombre es *Carlos Carlon* pero la mayoria de personas me conocen como ***Charlie Carlon*** actualmente tengo 21 años y estoy cursando el 7th Semestre de la carrera de *Ingenieria en Sistemas Computacionales* en el ***Instituto Tecnologico de Tijuana***, actualmente no he trabajado formalmento como desarrollador, mas sin embargo, estoy en un proyecto de mover a digital por completo la empresa de mis padres, *Caralmi*. Lo que buscan es desarrollarles un punto de venta, su pagina web, asi como tambien su respectiva aplicacion movil. Ademas de eso me encargo de su publicidad y proxmimamente manejare sus canales de youtube, asi como su pagina de Facebook e Instagram.
+Mi nombre es *Carlos Carlon* pero la mayoria de personas me conocen como ***Charlie Carlon*** actualmente tengo 21 años y estoy cursando el 8th Semestre de la carrera de *Ingenieria en Sistemas Computacionales* en el ***Instituto Tecnologico de Tijuana***, actualmente no he trabajado formalmento como desarrollador, mas sin embargo, estoy en un proyecto de mover a digital por completo la empresa de mis padres, *Caralmi*. Lo que buscan es desarrollarles un punto de venta, su pagina web, asi como tambien su respectiva aplicacion movil. Ademas de eso me encargo de su publicidad y proxmimamente manejare sus canales de youtube, asi como su pagina de Facebook e Instagram.
 
 
 Lenguajes que he aprendido utilizar son:
@@ -40,12 +40,12 @@ La mayoria de estos los estoy aprendiendo y estoy muy interesado en conocer mas 
 
 | CLAVE         | MATERIA              | CR | DOCENTE                             | LUNES            | MARTES           | MIERCOLES        | JUEVES           | VIERNES          | RE | AS |
 |---------------|----------------------|----|-------------------------------------|------------------|------------------|------------------|------------------|------------------|----|----|
-| ACA-0910 SC8A | TALL DE INVESTIG II  | 04 | JOSE SERGIO MAGDALENO PALENCIA      | 16:00-17:00 9205 | 16:00-17:00 91L8 | 16:00-17:00 9205 | 16:00-17:00 91L8 |                  |    |    |
-| AEC-1034 SC5B | FUNDAM D TELECOMUNIC | 04 | HECTOR ALONSO MIRAMONTES MIRAMONTES | 17:00-18:00 9205 | 17:00-18:00 9205 | 17:00-18:00 9205 | 17:00-18:00 9205 |                  |    |    |
-| SCC-1014 SC6B | LENGUAJES DE INTERFA | 04 | RENE SOLIS REYES                    | 14:00-15:00 0506 | 14:00-15:00 LCLI | 14:00-15:00 0506 | 14:00-15:00 LCLI |                  |    |    |
-| SCC-1019 SC7B | PROGRAM LOG Y FUNC   | 04 | PABLO ADAMIR CORONEL PRADO          | 19:00-20:00 0310 | 19:00-20:00 91L6 | 19:00-20:00 0310 | 19:00-20:00 91L6 |                  |    |    |
-| SCD-1003 SC5A | ARQ DE COMPUTADORAS  | 05 | MIGUEL ANGEL LOPEZ RAMIREZ          | 15:00-16:00 91L6 | 15:00-16:00 91L8 | 15:00-16:00 91L6 | 15:00-16:00 91L8 | 15:00-16:00 91L6 |    |    |
-| SCD-1016 SC7B | LENG Y AUTOMATAS II  | 05 | LUIS ALFONSO GAXIOLA VEGA           | 18:00-19:00 0310 | 18:00-19:00 LCLB | 18:00-19:00 0310 | 18:00-19:00 LCLB | 18:00-19:00 0310 |    |    |
+| AEB-1055SC8B  | PROGRAMACION WEB     | 05 | RAY BRUNETT PARRA GALAVIZ           | 14:00-15:00 0311 | 14:00-15:00 0311 | 14:00-15:00 0311 | 14:00-15:00 0311 |  14:00-15:00 0311  |    |    |
+| SCD-1021SC6A  | REDES DE COMPUTADORAS| 05 | ADRIANA ISELA GONZALEZ MEZA         | 15:00-16:00 0309 | 15:00-16:00 0309 | 15:00-16:00 0309 | 15:00-16:00 0309 | 15:00-16:00 0309  |    |    |
+| AEB-1055SC8B  | SISTEMAS PROGRAMABL  | 04 | RENE SOLIS REYES                    | 16:00-17:00 9207 | 16:00-17:00 9207 | 16:00-17:00 9207 | 16:00-17:00 9207 |                  |    |    |
+| ADD-1704SC9B  | TOP A DE D DE SFTW   | 05 | ASHLEE EVELIN ROBLES GALLEGOS       | 17:00-18:00 0310 | 17:00-18:00 91L6 | 17:00-18:00 0310 | 17:00-18:00 91L6 | 17:00-18:00 91L6  |    |    |
+| ADF-1701SC8A  | PATRONES DE DISEÑO   | 05 | JOSE DE JESUS PARRA GALAVIZ         | 18:00-19:00 9303 | 18:00-19:00 9303 | 18:00-19:00 9303 | 18:00-19:00 9303 | 18:00-19:00 9303 
+|    |    |
 
 
 ## Redes Sociales!
